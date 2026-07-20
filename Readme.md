@@ -1,6 +1,6 @@
 # PacketForge BR 🐍📡
 
-Sniffer e analisador de pacotes de rede em Python, com CLI inspirada no **tcpdump** — agora com **motor de detecção de ameaças (modo Blue Team)** — feito para a aula do canal **Cybersegurança na Prática**.
+Sniffer e analisador de pacotes de rede em Python, com CLI inspirada no **tcpdump**  agora com **motor de detecção de ameaças (modo Blue Team)**  feito para a aula do canal **Cybersegurança na Prática**.
 
 ## O que ele faz
 
